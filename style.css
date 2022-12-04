@@ -15,13 +15,29 @@ Updated: 2022-11-25 00:48:29
     background-color:#3766aa;
 }
 
-.main-navigation ul li a, .site-header-cart .cart-contents {
+.main-navigation ul li a, .site-header-cart .cart-contents, .site-header-cart .cart-contents:hover {
     color: #f0f2f7;
 }
 
 .main-navigation ul li a:hover, .site-header ul.menu li.current-menu-item > a {
     color: #f0f2f7;
     text-decoration: underline;
+}
+
+.main-navigation ul.menu ul.sub-menu {
+    background-color: #f0f2f7;
+    border: 3px solid #3766aa;
+    margin-top: -3px;
+    border-radius: 0 0 6px 6px;
+}
+
+
+.main-navigation ul.menu ul a:hover {
+    color: #f0f2f7; 
+}
+
+.main-navigation ul.menu ul li a, .main-navigation ul.nav-menu ul li a {
+    color:#3766aa;
 }
 
 .trustIndicators {
