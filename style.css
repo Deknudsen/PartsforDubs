@@ -22,7 +22,7 @@ Updated: 2022-11-25 00:48:29
     color: #eeede5;
     background-color: #3766aa;
     border-radius: 7px;
-    box-shadow: 0px 6px 10px rgb(209, 209, 209);
+    box-shadow: 0px 6px 10px #c6ced9;
 }
 
 .wp-block-search__input {
@@ -46,4 +46,8 @@ img {
 
 #text {
     color: #eeede5;
+}
+
+.stock.in-stock, .stock.in-stock::before {
+    color: #3766aa;
 }
