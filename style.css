@@ -90,6 +90,8 @@ img {
 
 .site-info {
     color: #eeede5;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .stock.in-stock, .stock.in-stock::before {
