@@ -33,6 +33,7 @@ Updated: 2022-11-25 00:48:29
     justify-content: center;
     align-items: center;
     margin: 20px 0 20px 0;
+    display: block;
 }
 
 .button, .storefront-sticky-add-to-cart__content-button.button.alt, .single_add_to_cart_button.button.alt.wp-element-button, .wp-block-search__button, .checkout-button.button.alt.wc-forward, #place_order.button.alt, .woocommerce-noreviews, #submit {
@@ -84,4 +85,11 @@ img {
 
 .woocommerce-message {
     background-color: #3766aa;
+}
+
+@media only screen and (max-width: 1034px) {
+ 
+    .trustIndicators {
+        display: none;
+    }
 }
