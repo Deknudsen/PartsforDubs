@@ -90,8 +90,7 @@ img {
 
 .site-info {
     color: #eeede5;
-    margin-top: 30px;
-    margin-bottom: 30px;
+
 }
 
 .stock.in-stock, .stock.in-stock::before {
@@ -100,6 +99,8 @@ img {
 
 #content.site-content {
     background-color: #f0f2f7;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .woocommerce-message {
