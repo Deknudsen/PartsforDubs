@@ -80,3 +80,7 @@ img {
 #content.site-content {
     background-color: #f0f2f7;
 }
+
+.woocommerce-message {
+    background-color: #3766aa;
+}
