@@ -15,8 +15,8 @@ Updated: 2022-11-25 00:48:29
     background-color:#3766aa;
 }
 
-.storefront-primary-navigation a {
-    color: #f0f2f7;
+.main-navigation ul li a {
+    color: #f0f2f7
 }
 
 .trustIndicators {
