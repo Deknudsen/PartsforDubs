@@ -15,8 +15,13 @@ Updated: 2022-11-25 00:48:29
     background-color:#3766aa;
 }
 
-.storefront-primary-navigation a {
+.main-navigation ul li a, .site-header-cart .cart-contents {
     color: #f0f2f7;
+}
+
+.main-navigation ul li a:hover, .site-header ul.menu li.current-menu-item > a {
+    color: #f0f2f7;
+    text-decoration: underline;
 }
 
 .trustIndicators {
