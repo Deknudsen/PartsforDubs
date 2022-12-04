@@ -33,7 +33,7 @@ Updated: 2022-11-25 00:48:29
     justify-content: center;
     align-items: center;
     margin: 20px 0 20px 0;
-    display: block;
+    display: flex;
 }
 
 .button, .storefront-sticky-add-to-cart__content-button.button.alt, .single_add_to_cart_button.button.alt.wp-element-button, .wp-block-search__button, .checkout-button.button.alt.wc-forward, #place_order.button.alt, .woocommerce-noreviews, #submit {
