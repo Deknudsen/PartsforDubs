@@ -38,9 +38,10 @@ Updated: 2022-11-25 00:48:29
 }
 
 .button:hover, .single_add_to_cart_button.alt.wp-element-button:hover, .wp-block-search__button:hover, .checkout-button.button.alt.wc-forward:hover, #place_order.button.alt:hover, #submit:hover {
-    color: #eeede5;
-    background-color: #3766aa;
+    color: #3766aa;
+    background-color: #eeede5;
     border-radius: 7px;
+    border: 2px solid #3766aa;;
     box-shadow: 0px 6px 10px #c6ced9;
 }
 
