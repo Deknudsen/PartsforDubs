@@ -11,14 +11,14 @@ Updated: 2022-11-25 00:48:29
 
 */
 
-.button, .single_add_to_cart_button, .wp-block-search__button, .checkout-button.button.alt.wc-forward, #place_order.button.alt, .woocommerce-noreviews, #submit {
+.button, .single_add_to_cart_button.button.alt.wp-element-button, .wp-block-search__button, .checkout-button.button.alt.wc-forward, #place_order.button.alt, .woocommerce-noreviews, #submit {
     color: #eeede5;
     background-color: #3766aa;
     border-radius: 7px;
     box-shadow: 0px 6px 10px #c6ced9;
 }
 
-.button:hover, .single_add_to_cart_button:hover, .wp-block-search__button:hover, .checkout-button.button.alt.wc-forward:hover, #place_order.button.alt:hover, #submit:hover {
+.button:hover, .single_add_to_cart_button.alt.wp-element-button:hover, .wp-block-search__button:hover, .checkout-button.button.alt.wc-forward:hover, #place_order.button.alt:hover, #submit:hover {
     color: #eeede5;
     background-color: #3766aa;
     border-radius: 7px;
