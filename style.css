@@ -39,6 +39,7 @@ Updated: 2022-11-25 00:48:29
     color: #f0f2f7;
     background-color: #3766aa;
     border-radius: 7px;
+    border: 2px solid #3766aa;
     box-shadow: 0px 6px 10px #c6ced9;
 }
 
@@ -46,7 +47,7 @@ Updated: 2022-11-25 00:48:29
     color: #3766aa;
     background-color: #f0f2f7;
     border-radius: 7px;
-    border: 2px solid #3766aa;;
+    border: 2px solid #3766aa;
     box-shadow: 0px 6px 10px #c6ced9;
 }
 
