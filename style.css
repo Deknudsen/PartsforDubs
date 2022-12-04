@@ -11,6 +11,17 @@ Updated: 2022-11-25 00:48:29
 
 */
 
+.trustIndicators {
+    color: #333333;
+    background-color: #ccced2;;
+    width: 100%;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 20px 0;
+}
+
 .button, .single_add_to_cart_button.button.alt.wp-element-button, .wp-block-search__button, .checkout-button.button.alt.wc-forward, #place_order.button.alt, .woocommerce-noreviews, #submit {
     color: #eeede5;
     background-color: #3766aa;
@@ -50,4 +61,8 @@ img {
 
 .stock.in-stock, .stock.in-stock::before {
     background-color: #3766aa;
+}
+
+.site-content {
+    background-color: #ccced2;
 }

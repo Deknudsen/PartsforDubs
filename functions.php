@@ -22,3 +22,10 @@ endif;
 add_action( 'wp_enqueue_scripts', 'chld_thm_cfg_parent_css', 10 );
 
 // END ENQUEUE PARENT ACTION
+
+function print_trust_indicators() {
+    ?>
+        <div class="trustIndicators"> ★ VAG EKSPERTER ▲ SPECIALISTER I SPECIALDELE ♥ VI ELSKER VAG ✓ NYE DELE OG GAMLE DELE ✆ Du kan kontakte os på Telefon: 51740535 </div>
+    <?php
+}
+add_action("my_trust_indicators_hook", "print_trust_indicators");
