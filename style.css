@@ -73,9 +73,15 @@ Updated: 2022-11-25 00:48:29
     background-color: #3766aa;
     border-color: #3766aa;
     color: #f0f2f7;
+    border: 2px solid #3766aa;
 }
 
-
+.added_to_cart.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover, .added_to_cart:hover, .site-header-cart .widget_shopping_cart a.button:hover, .wc-block-grid__products:hover .wc-block-grid__product .wp-block-button__link:hover {
+    color: #3766aa;
+    background-color: #f0f2f7;
+    border-radius: 7px;
+    border: 2px solid #3766aa;
+}
 
 .wp-block-search__input {
     border-radius: 7px;
