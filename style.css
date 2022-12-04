@@ -87,6 +87,15 @@ img {
     background-color: #3766aa;
 }
 
+#woocommerce-product-search-field-0.search-field {
+    border-radius: 7px;
+    border: 2px solid #3766aa;
+}
+
+.woocommerce-product-search::before {
+    color: #3766aa;
+}
+
 @media only screen and (max-width: 1034px) {
  
     .trustIndicators {
