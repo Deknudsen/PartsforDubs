@@ -21,6 +21,7 @@ Updated: 2022-11-25 00:48:29
 
 .main-navigation ul li a:hover, .site-header ul.menu li.current-menu-item > a {
     color: #f0f2f7;
+    background-color: #3766aa;
     text-decoration: underline;
 }
 
