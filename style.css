@@ -99,8 +99,8 @@ img {
 
 #content.site-content {
     background-color: #f0f2f7;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .woocommerce-message {
