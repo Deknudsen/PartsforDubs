@@ -41,6 +41,17 @@ Updated: 2022-11-25 00:48:29
     color:#3766aa;
 }
 
+.storefront-breadcrumb {
+    margin: 0;
+}
+
+.woocommerce-products-header {
+    visibility: hidden;
+    margin: 0;
+    height: 0;
+    padding: 0;
+}
+
 .trustIndicators {
     color: #333333;
     background-color: #f0f2f7;
@@ -113,7 +124,7 @@ img {
 
 #content.site-content {
     background-color: #f0f2f7;
-    padding-top: 30px;
+    padding-top: 0px;
     padding-bottom: 30px;
 }
 
